@@ -1,13 +1,16 @@
-## Hi there 👋
-#### I'm a designer turned developer 🌱
-and I'm having a lot of fun in the process. ✨
+## Sup 👋
+#### I'm a designer turned developer
 
 ## What I'm up to
-Currently I am delving into Python and SQL, building ETL pipelines for VNA.<br>
+Previously I delved into data engineering, using Python and MSSQL to manage and build ETL pipelines for VNA.<br>
+Now, I've picked up HTML5, CSS3, JavaScript, and Svelte to focus on front end development. 
+I still don't like Typescript.
+
 Get in touch with me via [my website](https://wesselwegerif.nl/)!
 
-![](https://komarev.com/ghpvc/?username=wegerif&color=grey&style=for-the-badge&label=Visitors)<br>
-<sub><sup>(most of this has been me)</sup></sub>
+![Profile views](https://counter.kuber.studio/wegerif/hacker/count.svg)<br>
+<sub><sup>(most of this has been me or a webscraper)</sup></sub>
+
 
 <!--
 **wegerif/wegerif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
