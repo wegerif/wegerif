@@ -1,5 +1,6 @@
 ## Sup 👋
 #### I'm a designer turned developer
+<img src="./Saint Anastasius of Alexandria maar dan cool.png" width="400" alt="Cyber Saint Anastasius">
 
 ## What I'm up to
 Previously I delved into data engineering, using Python and MSSQL to manage and build ETL pipelines for VNA.<br>
